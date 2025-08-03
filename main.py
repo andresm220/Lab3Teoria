@@ -1,6 +1,7 @@
 import re
 from graphviz import Digraph
 
+#Andrés Mazariegos,21749
 # Clase para nodos del AST
 class Nodo:
     def __init__(self, valor, izquierda=None, derecha=None):
